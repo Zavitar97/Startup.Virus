@@ -6,6 +6,4 @@ This software is not a virus or Malware ( but can be modified to make it more da
 
 Always verify software before use.
 
-My OPENPGP PUBLIC key for software verification can be accessed from here: https://outflaw.blogspot.com/2019/12/my-pgp-key.html
-
-NOTE: USE AT YOUR OWN RISK DEVELOPER NOT RESPONSIBLE FOR DAMAGES ARISING FROM USE OF THIS SOFTWARE.
+<h2>NOTE: USE AT YOUR OWN RISK DEVELOPER NOT RESPONSIBLE FOR DAMAGES ARISING FROM USE OF THIS SOFTWARE.</h2>
